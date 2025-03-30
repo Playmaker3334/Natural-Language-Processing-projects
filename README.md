@@ -44,7 +44,5 @@ I have many ideas in mind that I can't wait to bring to life. Stay tuned for new
 
 Feel free to explore, give feedback, or even contribute if you find something interesting. NLP is a journey, and I'm excited to keep learning and growing.
 
----
 
-⭐️ *If you like what you see, don’t forget to star this repository!* ⭐️
 
