@@ -30,6 +30,7 @@ This repository will gradually grow to include:
 
 Some of the tools and frameworks I use for these projects include:
 - **Python**
+- **Tensorflow**
 - **PyTorch**
 - **Transformers (Hugging Face)**
 - **spaCy**
